@@ -18,7 +18,7 @@ setup(
     name='DimondPricePrediction',
     version='0.0.1',
     author='Ishan',
-    author_email='ishsin.2020@gmil.com',
+    author_email='ishsin.2020@gmail.com',
     install_requires=["scikit-learn","pandas","numpy"],
     packages=find_packages()
 )
