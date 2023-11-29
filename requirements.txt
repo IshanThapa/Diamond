@@ -8,4 +8,5 @@ Flask
 mlflow==2.2.2
 dvc
 
+#(this installs setup.py so for 1st time use it then no need.)
 #-e .

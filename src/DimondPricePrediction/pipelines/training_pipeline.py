@@ -1,3 +1,6 @@
+import sys
+sys.path.append("src\DimondPricePrediction")
+
 from src.DimondPricePrediction.components.data_ingestion import DataIngestion
 
 from src.DimondPricePrediction.components.data_transformation import DataTransformation
